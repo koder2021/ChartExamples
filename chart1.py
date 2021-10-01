@@ -3,7 +3,7 @@ import numpy as np
 
 def plot_chart():
     
-    # Data for plotting
+    # Данные для графика
     t = np.arange(0.0, 2.0, 0.01)
     s = 1 + np.sin(2 * np.pi * t)
 
